@@ -4,9 +4,9 @@ const NavBar = () => {
       return (
             <div>
                   <ul>
-                       <li><Link to="/">Home</Link></li> 
-                       <li> <Link to="contacts">Contacts</Link></li> 
-                       <li><Link to="about">About</Link></li> 
+                       <li><Link to="/react-router-demo-v6/">Home</Link></li> 
+                       <li> <Link to="react-router-demo-v6/contacts">Contacts</Link></li> 
+                       <li><Link to="react-router-demo-v6/about">About</Link></li> 
                   </ul>
             </div>
 
